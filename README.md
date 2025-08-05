@@ -1,6 +1,4 @@
-# 🏦 Credit Scoring Model
-
-A **Credit Scoring Model** is a predictive analytics solution that assesses an individual's likelihood of repaying debts based on historical financial data. Financial institutions use these models to make informed decisions about loan approvals, credit limits, and interest rates. By analyzing factors like income, debt levels, and payment history, the model categorizes individuals as high or low credit risks.
+## Credit Scoring Model** is a predictive analytics solution that assesses an individual's likelihood of repaying debts based on historical financial data. Financial institutions use these models to make informed decisions about loan approvals, credit limits, and interest rates. By analyzing factors like income, debt levels, and payment history, the model categorizes individuals as high or low credit risks.
 
 ## 🎯 Objective
 The objective of this project is to build a machine learning model that predicts an individual's **creditworthiness** (Good Credit / Bad Credit) using classification algorithms. The model will help in automating credit risk assessment, reducing manual intervention, and improving decision accuracy for financial services.
