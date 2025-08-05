@@ -1,0 +1,11 @@
+Income,Debt,Payment_History,Credit_Utilization,Default_Status
+55000,15000,Good,30,0
+48000,12000,Poor,60,1
+62000,5000,Good,20,0
+75000,20000,Average,50,0
+39000,10000,Poor,70,1
+51000,7000,Average,40,0
+67000,9000,Good,25,0
+72000,14000,Good,35,0
+43000,11000,Poor,65,1
+58000,8000,Average,45,0
